@@ -64,4 +64,3 @@ public class Reservation {
 				}
 	
 }
-//End of class

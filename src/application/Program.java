@@ -56,4 +56,3 @@ public class Program {
 	}
 	//End of main method
 }
-//End of class
